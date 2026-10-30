@@ -1,0 +1,16 @@
+============================================================
+          REPORTE AUTOMATIZADO DEL SISTEMA
+============================================================
+Fecha: 30/10/2026 20:15:50
+============================================================
+Usuario Actual         | jacksenku
+Fecha y Hora           | 30/10/2026 20:15:50
+Sistema Operativo      | Ubuntu 26.04 LTS
+Kernel                 | 7.0.0-29-generic
+Nombre del Host        | mail.empresa.test
+Direccion IP           | 192.168.1.13
+Tiempo Activo          | 1 hour, 17 minutes
+Uso de CPU             | 10%
+Uso de Memoria         | 882MB / 1642MB (53%)
+Uso de Disco           | 6,6G usado de 12G (62%)
+============================================================
