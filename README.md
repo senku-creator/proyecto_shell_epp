@@ -4,10 +4,19 @@ INTEGRANTES:
 - Huaman Laime, Brayan Jack 
 - Quijandria Chavez Fabrizio Farid 
 
-./scripts/01_reporte_sistema.sh
-./scripts/02_gestor_archivos.sh
-/scripts/03_analisis_servidores.sh
-./scripts/04_programador_cron.sh
+proyecto_shell_epp/
+├── scripts/
+│   ├── 01_reporte_sistema.sh      # Reporte completo del sistema
+│   ├── 02_gestor_archivos.sh      # Gestor seguro de archivos
+│   ├── 03_analisis_servidores.sh  # Análisis y monitoreo
+│   └── 04_programador_cron.sh     # Programador de tareas
+├── reportes/                       # Reportes generados automáticamente
+│   ├── reporte_sistema_*.txt
+│   ├── servidores_alerta.txt
+│   ├── servidores_revisados.txt
+│   └── analisis_completo.txt
+├── gestor_archivos/                # Carpeta segura de trabajo
+└── README.md                       # Este archivo
 
 git clone https://github.com/senku-creator/proyecto_shell_epp.git
 
