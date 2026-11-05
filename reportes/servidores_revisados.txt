@@ -1,3 +1,0 @@
-2026-10-30 20:33:50|mail.empresa.test|192.168.1.13|REVISADO
-2026-10-30 20:38:13|mail.empresa.test|192.168.1.13|REVISADO
-2026-10-30 20:40:38|mail.empresa.test|192.168.1.13|REVISADO
